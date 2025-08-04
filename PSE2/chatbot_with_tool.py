@@ -87,7 +87,7 @@ def main():
             break
 
         if is_multi_task(user_input):
-            assistant = "⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time."
+            assistant = "Sorry, I can't handle multiple tasks in one question. Please ask one at a time."
 
         elif is_math_question(user_input):
             assistant = f" Used calculator tool.\nResult: {handle_math(user_input)}"
@@ -103,3 +103,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
