@@ -1,0 +1,4 @@
+python-dotenv
+googletrans==4.0.0-rc1
+word2number
+google-generativeai
