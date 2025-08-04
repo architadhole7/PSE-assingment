@@ -6,7 +6,7 @@ Refuses to solve Mathematical Operations and Hints to calculator
 PSE2: 
 Level 2: LLM + Calculation
 Handles LLM + Basic Tool
-If Mathematical Calculation Detected, LLM calls Calculator tool, Graceful Failure for Multi Step 
+If Mathematical Calculation Detected, LLM calls Calculator tool, Graceful Failure for Multi Task
 Called Using chatbot_with_tool.py
 
 PSE3:
