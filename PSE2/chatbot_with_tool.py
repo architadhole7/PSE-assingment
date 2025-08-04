@@ -78,7 +78,7 @@ def log_interaction(user, assistant):
         f.write(f"User: {user}\nAssistant: {assistant}\n{'-'*40}\n")
 
 def main():
-    print(" Gemini Assistant (with calculator tool). Type 'exit' to quit.\n")
+    print(" Level 2 Bot (Calculator tool). Type 'exit' to quit.\n")
     while True:
         user_input = input("You: ")
 
@@ -103,4 +103,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
