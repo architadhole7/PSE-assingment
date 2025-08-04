@@ -1,21 +1,12 @@
 User: What is 2 times 3?
-Assistant: ⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
+Assistant: ⚠ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
 ----------------------------------------
 User: What is 12 times 3.
-Assistant: ⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
+Assistant: ⚠ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
 ----------------------------------------
 User: Solve 12 times 3
 Assistant:  Used calculator tool.
 Result: 36.0
-----------------------------------------
-User: & C:/Users/dell/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/dell/OneDrive/Desktop/PSE2/chatbot_with_tool.py
-Assistant: ⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
-----------------------------------------
-User: What is 12 times 3?
-Assistant: ⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
-----------------------------------------
-User: & C:/Users/dell/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/dell/OneDrive/Desktop/PSE2/chatbot_with_tool.py
-Assistant: ⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
 ----------------------------------------
 User: What is 12 times 3?
 Assistant:  Used calculator tool.
@@ -32,5 +23,6 @@ Therefore, the answer is **Hyderabad**.
 
 ----------------------------------------
 User: What is capital of andhra? and wht is 2 times 3?
-Assistant: ⚠️ Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
+Assistant:  Sorry, I can't handle multiple tasks in one question. Please ask one at a time.
 ----------------------------------------
+
