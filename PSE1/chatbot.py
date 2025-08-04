@@ -33,7 +33,7 @@ def ask_gemini(user_input):
         return f"Error: {e}"
 
 def main():
-    print("Level 1 Bot 🤖\nType 'exit' to quit.")
+    print("Level 1 Bot \nType 'exit' to quit.")
     while True:
         user_input = input("\nYou: ")
         if user_input.lower() in ['exit', 'quit']:
@@ -44,4 +44,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
